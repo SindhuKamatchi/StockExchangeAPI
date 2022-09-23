@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StockExcahngeAPI", "StockExcahngeAPI\StockExcahngeAPI.csproj", "{F000C428-AC2E-4BD6-AD26-4FB0423F4DB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StockExcahngeAPI.Tests", "StockExcahngeAPI.Tests\StockExcahngeAPI.Tests.csproj", "{AFDEDFFB-4435-4656-ADBD-9A68DF3E7854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F000C428-AC2E-4BD6-AD26-4FB0423F4DB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F000C428-AC2E-4BD6-AD26-4FB0423F4DB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F000C428-AC2E-4BD6-AD26-4FB0423F4DB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F000C428-AC2E-4BD6-AD26-4FB0423F4DB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFDEDFFB-4435-4656-ADBD-9A68DF3E7854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFDEDFFB-4435-4656-ADBD-9A68DF3E7854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFDEDFFB-4435-4656-ADBD-9A68DF3E7854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFDEDFFB-4435-4656-ADBD-9A68DF3E7854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C30DBFA-20F1-4636-9F8A-F987C9C358B0}
+	EndGlobalSection
+EndGlobal
